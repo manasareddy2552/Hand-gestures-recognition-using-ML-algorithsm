@@ -1,1 +1,1 @@
-# Hand-gestures-recognition-using-ML-algorithsm
+Kuraparthi Manasa-2019
